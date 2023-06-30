@@ -28,7 +28,7 @@ print(course[-2])  # the second character from the end:  "r"
 print(course[0:3])  # all characters from 0 index to 3rd:  "Pyt"
 print(course[0:])  # all characters from 0 index to the end:  "Python's course for Beginners"
 print(course[1:])  # all characters from 1 index to the end:  "ython's course for Beginners"
-print(course[:5])  # all characters from 0 index to 3rd:  "Pytho"
+print(course[:5])  # all characters from 0 index to 5th:  "Pytho"
 # and so on
 
 name = 'Jennifer'
