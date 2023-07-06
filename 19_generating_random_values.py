@@ -1,3 +1,4 @@
+# https://docs.python.org/3/library/random.html#module-random
 import random
 
 for i in range(3):
